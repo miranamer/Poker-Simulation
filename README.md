@@ -7,3 +7,7 @@ plot the distribution.
 
 https://user-images.githubusercontent.com/91673777/222961498-4b0768f1-a8be-401e-9936-2d555c49bdb2.mp4
 
+
+<h1> Graph Example </h1>
+
+![Percentage Dist](https://user-images.githubusercontent.com/91673777/222961559-75c25dfa-6fb7-43a7-bbe4-59129c5690d3.png)
